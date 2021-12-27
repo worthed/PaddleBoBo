@@ -1,5 +1,5 @@
 GANDRIVING:
-  FOM_INPUT_IMAGE: './file/input/test.png'
+  FOM_INPUT_IMAGE: './file/input/jsmysz.jpg'
   FOM_DRIVING_VIDEO: './file/input/zimeng.mp4'
   FOM_OUTPUT_VIDEO: './file/input/test.mp4'
 

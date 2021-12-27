@@ -47,7 +47,7 @@ python create_virtual_human.py --config default.yaml
 python general_demo.py \
     --human ./file/input/test.mp4 \
     --output output.mp4 \
-    --text 各位开发者大家好，欢迎使用飞桨。
+    --text 各位开发者大家好，欢迎虚拟主播张三芳。
 ```
 
 | 参数 | 参数说明 |
